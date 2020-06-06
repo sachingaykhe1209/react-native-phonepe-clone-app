@@ -1,0 +1,17 @@
+{
+  "name": "e-learning",
+  "displayName": "e-learning",
+  "expo": {
+    "name": "e-learning",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
