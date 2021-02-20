@@ -1,8 +1,8 @@
 {
-  "name": "e-learning",
-  "displayName": "e-learning",
+  "name": "sachin-phonepay-clone-app",
+  "displayName": "sachin-phonepay-clone-app",
   "expo": {
-    "name": "e-learning",
+    "name": "sachin-phonepay-clone-app",
     "slug": "expo-template-bare",
     "version": "1.0.0",
     "platforms": [
